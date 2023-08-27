@@ -71,6 +71,42 @@
       "name": "CANDY CRUSH",
       "img": "https://i.pinimg.com/564x/ee/eb/89/eeeb89777dfb605186e54077693b0f98.jpg",
       "description": "Over 10000 match 3 Sodalicious levels. *Mouth-watering graphics, with 3D characters and an ever changing environment."
+    },
+    {
+      "id":13,
+      "name":"NEED FOR SPEED",
+      "img":"https://i.pinimg.com/564x/8b/14/b8/8b14b848987f2cf15b88023ba79be6e6.jpg",
+      "description":"Need for Speed is a racing game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout."
+    },
+    {
+      "id":14,
+      "name":"SEA OF THEIEVES",
+      "img":"https://i.pinimg.com/564x/7a/20/0e/7a200e19c238eea7c2bbb8fb7f5c7093.jpg",
+      "description":"ea of Thieves is a 2018 action-adventure game developed by Rare and published by Microsoft Studios."
+    },
+    {
+      "id":15,
+      "name":"HALO INFINITE",
+      "img":"https://i.pinimg.com/564x/cb/68/f8/cb68f8e698c476e39d513aef249ad11f.jpg",
+      "description":"Halo Infinite is a 2021 first-person shooter game developed by 343 Industries and published by Xbox Game Studios."
+    },
+    {
+      "id":16,
+      "name":"HEARTH STONE",
+      "img":"https://i.pinimg.com/564x/b0/cd/2b/b0cd2bcde208f33567da5ab1881afedf.jpg",
+      "description":"Hearthstone is a free-to-play online digital collectible card game developed and published by Blizzard Entertainment. Originally subtitled Heroes of Warcraft."
+    },
+    {
+      "id":17,
+      "name":"NO MAN'S SKY",
+      "img":"https://i.pinimg.com/564x/79/6f/ca/796fca0d85d6eefaf20b4b7cc175637b.jpg",
+      "description":"No Man's Sky is an action-adventure survival game developed and published by Hello Games."
+    },
+    {
+      "id":18,
+      "name":"DIABLO 4",
+      "img":"https://i.pinimg.com/564x/ad/61/2b/ad612bf3684a05afae51a744c8a1f695.jpg",
+      "description":"Diablo IV is a 2023 online-only action role-playing game developed and published by Blizzard Entertainment"
     }
   ]
 }
